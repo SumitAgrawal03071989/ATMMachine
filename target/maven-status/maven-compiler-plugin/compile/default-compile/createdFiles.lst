@@ -1,0 +1,9 @@
+proto/schema/TransactionProto$TransactionOrBuilder.class
+com/bank/transaction/RandomTransactionGenerator.class
+proto/schema/TransactionProto$Transaction$1.class
+proto/schema/TransactionProto$Transaction.class
+proto/schema/TransactionProto$1.class
+proto/schema/TransactionProto.class
+com/bank/greetings/SayHello.class
+com/bank/transaction/TransactionProducer.class
+proto/schema/TransactionProto$Transaction$Builder.class
